@@ -14,3 +14,4 @@ Welcome to my project solution. Then if u're here to review my test assignment, 
        
 3rd file:
 - Raw data
+- Link: https://github.com/thaobui97/data-analysis/blob/main/DATA%20BRANCH_dummy%20data.xlsb
