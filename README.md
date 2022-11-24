@@ -1,4 +1,4 @@
-Business Performance Analysis of Branches in TCB
+BUSINESS PERFORMANCE ANALYSIS OF BRANCHES IN TCB
 
 Welcome to my project solution. Then if u're here to review my test assignment, please look at the files in the following order:
 
